@@ -1,0 +1,23 @@
+.row.justify-content-center.pt-4 .col {
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
+.nav-link, .col a {
+  color: #333;
+  transition: color 0.2s ease-in-out;
+}
+
+.nav-link:hover, .col a:hover {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.navbar {
+  border-bottom: 1px solid #ddd;
+}
+
+.row.justify-content-center.pt-4 {
+  margin-bottom: 20px;
+}
